@@ -39,10 +39,15 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+![499704128-f48cf46e-c6cd-473c-a062-5b4941d7b725](https://github.com/user-attachments/assets/32d1b24f-10da-4731-b6ed-e72447e3ad70)
+
+![499704129-3d0484e9-c0be-4fee-9250-85054a63ffb9](https://github.com/user-attachments/assets/392c7318-c8dd-462c-a8c0-5beb1d325abe)
 
 **Output:**
 
 **RTL**
+![499704610-69a16ab8-f043-4400-bd98-2537572ed0d9](https://github.com/user-attachments/assets/b9b8c2d5-3d09-4e70-adbe-b91dc1faca11)
+![499704859-17c08537-8853-4dce-839b-456d203df5fa](https://github.com/user-attachments/assets/189f94cf-553b-428e-9ba1-6b9d9c4f5c49)
 
 **Timing Diagram**
 
